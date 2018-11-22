@@ -1,6 +1,6 @@
-token=NTA1NzMzOTM4NjE5MDg4OTA3.DrYMtQ.psSiHKGP_MILX5mNXaVmXNEIHNs
+token=NTE1MTQ4OTI2NjIyNjI5ODk4.DthKtw.7gRvkjRIsvbhX87INPp2_jMfpvo
 owner=368768446327947265
-prefix=-4
-game=Type -4help.
+prefix=4
+game=Type 4help.
 stayinchannel=true
 songinstatus=true
